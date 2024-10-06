@@ -53,7 +53,7 @@ sudo apt-get install x11-xserver-utils
 Running the script changes your screen resolution to 1280x1024 if supported by your display.
 
 ## 📝 License
-This project is licensed under the MIT License. See the [LICENSE]() file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/IcelabsInc/Resolution-Fix-Python-Linux/blob/main/LICENSE.txt) file for more details.
 
 #
 © 2024 IceLabs Inc.
